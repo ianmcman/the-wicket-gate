@@ -1,4 +1,4 @@
-baseURL: https://wicket-gate-blog.web.app
+baseURL: https://wicket-gate-blog.web.app/
 languageCode: en-US
 title: The Wicket Gate
 theme: triple-hyde
@@ -6,3 +6,26 @@ taxonomies:
   tag: tags
   category: categories
   author: authors
+
+paginate: 5
+
+params.social:
+  github: ianmcman
+  linkedin: https://www.linkedin.com/in/ian-mcmanus02/
+  email: mcmanus.ian.g@gmail.com
+
+params:
+  author: Ian McManus
+  title: The Wicket Gate
+  dateformat: Jan 2, 2006
+
+  copyright: Ian McManus
+  since: 2025
+  license:  CC BY-NC-SA 4.0
+  licenseURL: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+  menu.main:
+    name: Posts
+    weight: 100
+    identifier: posts
+    url: /posts/

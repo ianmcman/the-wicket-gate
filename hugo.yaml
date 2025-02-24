@@ -28,3 +28,8 @@ params:
     weight: 100
     identifier: posts
     url: /posts/
+  menu.main:
+    name: About
+    identifier: about
+    weight: 300
+    url: /about/

@@ -23,17 +23,17 @@ params:
   license:  CC BY-NC-SA 4.0
   licenseURL: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-  menu:
-    main:
-      - identifier: home
-        name: Home
-        url: /
-        weight: 1
-      - identifier: posts
-        name: Posts
-        url: /posts/
-        weight: 2
-      - identifier: about
-        name: About
-        url: /about/
-        weight: 3
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 2
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 3

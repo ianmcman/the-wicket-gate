@@ -7,7 +7,7 @@ taxonomies:
   category: categories
   author: authors
 
-paginate: 5
+pagination.Pagersize: 5
 
 params.social:
   github: ianmcman

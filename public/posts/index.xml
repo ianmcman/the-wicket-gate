@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Wicket Gate</title>
-    <link>https://ianmcmanus.net/posts/</link>
+    <link>https://wicket-gate-blog.web.app/posts/</link>
     <description>Recent content in Posts on The Wicket Gate</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 23 Feb 2025 21:44:31 -0600</lastBuildDate>
-    <atom:link href="https://ianmcmanus.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wicket-gate-blog.web.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://ianmcmanus.net/posts/my-first-post/</link>
-      <pubDate>Sun, 23 Feb 2025 21:44:31 -0600</pubDate>
-      <guid>https://ianmcmanus.net/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <title>Welcome to the Wicket Gate</title>
+      <link>https://wicket-gate-blog.web.app/posts/my-first-post/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://wicket-gate-blog.web.app/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hello, I am Ian and this is the Wicket Gate, a blog where I (and possibly my friends) will be talking about things that are of interest to me or us. The particular topics that I have an interest in are Particular Baptist theology and technology.&lt;/p&gt;&#xA;&lt;p&gt;Now for some information about me. I am, as of today, I am a garbage man but I&amp;rsquo;m in school right now for a diploma in network management. I already have an associate&amp;rsquo;s degree in applications development.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

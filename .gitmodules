@@ -7,3 +7,6 @@
 [submodule "themes/triple-hyde"]
 	path = themes/triple-hyde
 	url = https://github.com/ianmcman/triple-hyde.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git

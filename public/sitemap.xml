@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wicket-gate-blog.web.app/posts/</loc>
+    <loc>http://localhost:63925/posts/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wicket-gate-blog.web.app/</loc>
+    <loc>http://localhost:63925/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wicket-gate-blog.web.app/posts/my-first-post/</loc>
+    <loc>http://localhost:63925/posts/my-first-post/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wicket-gate-blog.web.app/categories/</loc>
+    <loc>http://localhost:63925/categories/</loc>
   </url><url>
-    <loc>https://wicket-gate-blog.web.app/tags/</loc>
+    <loc>http://localhost:63925/tags/</loc>
   </url>
 </urlset>

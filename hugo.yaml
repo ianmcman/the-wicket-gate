@@ -1,7 +1,7 @@
 baseURL: https://wicket-gate-blog.web.app/
 languageCode: en-US
 title: The Wicket Gate
-theme: "PaperMod"
+theme: ["PaperMod"]
 taxonomies:
   tag: tags
   category: categories
@@ -16,6 +16,8 @@ params:
   since: 2025
   license: CC BY-NC-SA 4.0
   licenseURL: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+  env: production
 
 menu:
   main:
@@ -33,3 +35,7 @@ menu:
       weight: 3
 
 cleanDestinationDir: true
+
+minify:
+  disableXML: true
+  minifyOutput: true

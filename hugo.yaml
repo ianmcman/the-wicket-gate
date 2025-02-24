@@ -1,7 +1,7 @@
 baseURL: https://wicket-gate-blog.web.app/
 languageCode: en-US
 title: The Wicket Gate
-theme: triple-hyde
+theme: "PaperMod"
 taxonomies:
   tag: tags
   category: categories

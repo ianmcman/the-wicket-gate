@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wicket-gate-blog.web.app/sitemap.xml

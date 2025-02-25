@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on The Wicket Gate</title>
+    <link>https://wicket-gate-blog.web.app/tags/</link>
+    <description>Recent content in Tags on The Wicket Gate</description>
+    <image>
+      <title>The Wicket Gate</title>
+      <url>https://wicket-gate-blog.web.app/images/papermod-cover.png</url>
+      <link>https://wicket-gate-blog.web.app/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>en</language>
+    <atom:link href="https://wicket-gate-blog.web.app/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -15,7 +15,7 @@ jobs:
           hugo-version: "latest"
           extended: true
 
-      - name: Build Hugo Site
+      - name: Clean and Build Hugo Site
         run: |
           rm -rf public
           hugo --minify -D

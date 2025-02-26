@@ -45,8 +45,8 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: Ian McManus
+  description: "The personal interest blog of Ian McManus"
+  author: "The Wicket Gate"
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -62,7 +62,7 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: true
-  # comments: false
+  comments: true
   images: ["images/papermod-cover.png"]
 
   profileMode:
@@ -86,7 +86,7 @@ params:
       - This is a blog where I write about my thoughts and experiences in the world of technology and theology.
 
   editPost:
-    URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+    URL: "https://github.com/ianmcman/the-wicket-gate/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 

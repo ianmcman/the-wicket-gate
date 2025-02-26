@@ -28,7 +28,7 @@ jobs:
         run: |
           hugo --minify --cleanDestinationDir -D --gc
 
-      - name: Debug: Show Public Folder Contents
+      - name: "Debug: Show Public Folder Contents"
         run: ls -la public  # Verify that index.html exists
 
       - name: Deploy to Firebase Hosting

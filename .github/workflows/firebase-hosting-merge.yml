@@ -9,23 +9,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Install Hugo
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "latest"
           extended: true
 
-      # Remove the old public folder and build a fresh version
       - name: Build Hugo Site
         run: |
           rm -rf public
-          hugo --minify -D  # -D ensures draft content is included if needed
+          hugo --minify -D
+          ls -la public  # Debugging: Check if index.html is created
 
-      # Deploy to Firebase
-      - uses: FirebaseExtended/action-hosting-deploy@v0
+      - name: Deploy to Firebase
+        uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_WICKET_GATE_BLOG }}
           channelId: live
           projectId: wicket-gate-blog
+          entryPoint: public  # Explicitly set the public folder

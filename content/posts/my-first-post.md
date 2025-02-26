@@ -1,6 +1,7 @@
 ---
 date: '2025-02-23'
-title: Welcome to the Wicket Gate
+title: "Welcome to the Wicket Gate"
+author: "Ian McManus"
 ---
 Hello, I am Ian and this is the Wicket Gate, a blog where I (and possibly my friends) will be talking about things that are of interest to me or us. The particular topics that I have an interest in are Particular Baptist theology and technology.
 

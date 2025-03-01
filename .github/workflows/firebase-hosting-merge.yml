@@ -24,7 +24,7 @@ jobs:
         run: git submodule update --init --recursive
 
       - name: Build Hugo Site
-        run: hugo --minify --cleanDestinationDir -D --gc
+        run: hugo --minify --cleanDestinationDir --gc
 
       - name: "Debug: Show Public Folder Contents"
         run: ls -la public  # Verify that index.html exists
